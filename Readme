@@ -1,0 +1,8 @@
+This project is a continuation of my two previous articles/notes that cover FuelPHP's SimepleAuth.
+
+We have a two features built into the SimpleAuth referrence implementation:
+  * Groups
+  * Roles
+
+I'm going to go thru and explore both of these roles.
+
